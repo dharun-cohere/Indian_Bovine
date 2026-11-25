@@ -17,7 +17,7 @@ This project is an advanced Indian Bovine Classification system that utilizes de
 - **Frontend**: HTML, CSS (Tailwind CSS), JavaScript
 - **Machine Learning**: YOLO (You Only Look Once), LangChain
 - **Database**: FAISS for efficient similarity search
-- **Other**: Groq API for language model
+- **Other**: Groq API for language model (customisable) 
 
 ## Setup and Installation
 
